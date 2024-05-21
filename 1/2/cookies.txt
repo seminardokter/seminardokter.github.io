@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+seminardokter.id	TRUE	/	FALSE	1999999999	PHPSESSID	98b28a42f0581b0422c19b362cdc81fa
+
